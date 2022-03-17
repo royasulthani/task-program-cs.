@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\task group class\task group class\bin\Debug\netcoreapp3.1\task group class.exe
+C:\Users\PC\source\repos\task group class\task group class\bin\Debug\netcoreapp3.1\task group class.deps.json
+C:\Users\PC\source\repos\task group class\task group class\bin\Debug\netcoreapp3.1\task group class.runtimeconfig.json
+C:\Users\PC\source\repos\task group class\task group class\bin\Debug\netcoreapp3.1\task group class.runtimeconfig.dev.json
+C:\Users\PC\source\repos\task group class\task group class\bin\Debug\netcoreapp3.1\task group class.dll
+C:\Users\PC\source\repos\task group class\task group class\bin\Debug\netcoreapp3.1\task group class.pdb
+C:\Users\PC\source\repos\task group class\task group class\obj\Debug\netcoreapp3.1\task group class.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\task group class\task group class\obj\Debug\netcoreapp3.1\task group class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\task group class\task group class\obj\Debug\netcoreapp3.1\task group class.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\task group class\task group class\obj\Debug\netcoreapp3.1\task group class.AssemblyInfo.cs
+C:\Users\PC\source\repos\task group class\task group class\obj\Debug\netcoreapp3.1\task group class.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\task group class\task group class\obj\Debug\netcoreapp3.1\task group class.dll
+C:\Users\PC\source\repos\task group class\task group class\obj\Debug\netcoreapp3.1\task group class.pdb
+C:\Users\PC\source\repos\task group class\task group class\obj\Debug\netcoreapp3.1\task group class.genruntimeconfig.cache
